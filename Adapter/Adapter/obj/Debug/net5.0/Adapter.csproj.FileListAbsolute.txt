@@ -1,0 +1,15 @@
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.AssemblyReference.cache
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfoInputs.cache
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.AssemblyInfo.cs
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.csproj.CoreCompileInputs.cache
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.deps.json
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.json
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.runtimeconfig.dev.json
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.dll
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/ref/Adapter.dll
+/Users/grchristian/Projects/Adapter/Adapter/bin/Debug/net5.0/Adapter.pdb
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.dll
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/ref/Adapter.dll
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.pdb
+/Users/grchristian/Projects/Adapter/Adapter/obj/Debug/net5.0/Adapter.genruntimeconfig.cache
