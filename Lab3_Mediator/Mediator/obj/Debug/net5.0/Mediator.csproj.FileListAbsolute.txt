@@ -1,0 +1,15 @@
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/Mediator.deps.json
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.json
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/Mediator.runtimeconfig.dev.json
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/Mediator.dll
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/ref/Mediator.dll
+/Users/grchristian/Projects/Mediator/Mediator/bin/Debug/net5.0/Mediator.pdb
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.csproj.AssemblyReference.cache
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfoInputs.cache
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.AssemblyInfo.cs
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.csproj.CoreCompileInputs.cache
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.dll
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/ref/Mediator.dll
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.pdb
+/Users/grchristian/Projects/Mediator/Mediator/obj/Debug/net5.0/Mediator.genruntimeconfig.cache
