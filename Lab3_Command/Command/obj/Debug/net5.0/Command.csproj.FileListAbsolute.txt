@@ -1,0 +1,15 @@
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/Command.deps.json
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/Command.runtimeconfig.json
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/Command.runtimeconfig.dev.json
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/Command.dll
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/ref/Command.dll
+/Users/grchristian/Projects/Command/Command/bin/Debug/net5.0/Command.pdb
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.csproj.AssemblyReference.cache
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.AssemblyInfoInputs.cache
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.AssemblyInfo.cs
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.csproj.CoreCompileInputs.cache
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.dll
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/ref/Command.dll
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.pdb
+/Users/grchristian/Projects/Command/Command/obj/Debug/net5.0/Command.genruntimeconfig.cache
