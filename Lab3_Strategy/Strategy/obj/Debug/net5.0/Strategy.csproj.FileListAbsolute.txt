@@ -1,0 +1,15 @@
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/Strategy.deps.json
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.json
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/Strategy.runtimeconfig.dev.json
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/Strategy.dll
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/ref/Strategy.dll
+/Users/grchristian/Projects/Strategy/Strategy/bin/Debug/net5.0/Strategy.pdb
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.csproj.AssemblyReference.cache
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfoInputs.cache
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.AssemblyInfo.cs
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.csproj.CoreCompileInputs.cache
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.dll
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/ref/Strategy.dll
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.pdb
+/Users/grchristian/Projects/Strategy/Strategy/obj/Debug/net5.0/Strategy.genruntimeconfig.cache
